@@ -1,0 +1,6 @@
+#!/usr/bin/python3
+from Flask import flask, render_template
+
+app = (__name__)
+
+def show 
